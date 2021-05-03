@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@300&display=swap');
+
+body {
+    font-family: 'Trirong', sans-serif;
+    font-weight: 500;
+}
+
+span {
+    font-style: italic;
+}
+
+.container {
+    width: 80%;
+    height: 90vh;
+    margin: 5vh auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+p:first-of-type {
+    margin: 0 auto 30px;
+}
+
+p:last-of-type {
+    margin-top: 35px;
+}

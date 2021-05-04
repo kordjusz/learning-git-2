@@ -1,1 +1,1 @@
-html-validate FILENAME..
+html-validate index.html
